@@ -1,3 +1,4 @@
 import './module';
-import './index.scss';
+import './scss/db.scss';
+import './scss/index.scss';
 console.log(123);
